@@ -14,7 +14,7 @@
   "author": "Agwenchez",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.25",
     "nodemailer": "^6.4.10",
     "xoauth2": "^1.2.0"
